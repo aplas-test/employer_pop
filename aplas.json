@@ -1,20 +1,24 @@
 {
-  "id": "employer_pop",
-  "name": "Employer Pop",
-  "categoryId": "marketing",
-  "description": "Streamlined transitional policy",
-  "investment_24m": "493",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "85",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "123",
-  "deployment_date": "1/6/13",
-  "end_of_maintenance": "4/9/17",
-  "department": "Sales",
-  "status": "Decomissioned",
-  "end_of_life": "25/9/18",
-  "months_to_renew_support": "25",
-  "sme_email": "Gordy.Munnion@memento.net.au",
-  "investment_number": "285"
+  "applications": [
+    {
+      "id": "employer_pop",
+      "name": "Employer Pop",
+      "categoryId": "marketing",
+      "description": "Streamlined transitional policy",
+      "investment_24m": "493",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "85",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "123",
+      "deployment_date": "1/6/13",
+      "end_of_maintenance": "4/9/17",
+      "department": "Sales",
+      "status": "Decomissioned",
+      "end_of_life": "25/9/18",
+      "months_to_renew_support": "25",
+      "sme_email": "Gordy.Munnion@memento.net.au",
+      "investment_number": "285"
+    }
+  ]
 }
