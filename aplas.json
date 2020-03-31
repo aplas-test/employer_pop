@@ -18,7 +18,48 @@
       "end_of_life": "25/9/18",
       "months_to_renew_support": "25",
       "sme_email": "Gordy.Munnion@memento.net.au",
-      "investment_number": "285"
+      "investment_number": "285",
+      "integrations": [
+        {
+          "id": "int-148",
+          "name": "INT-148",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum.",
+          "sourceApplicationId": "employer_pop",
+          "targetApplicationId": "cookley",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FFFF",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "13/1/07",
+          "sme_name": "Isacco Tucker",
+          "decom_date": "19/10/16",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "Integration",
+          "status": "ToBeDecom",
+          "sme_email": "itucker3@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "11/12/16"
+        },
+        {
+          "id": "int-283",
+          "name": "INT-283",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "In congue. Etiam justo.",
+          "sourceApplicationId": "employer_pop",
+          "targetApplicationId": "cookley",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "14/8/16",
+          "sme_name": "Matelda Nuss",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mnussf@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "18/7/16"
+        }
+      ]
     }
   ]
 }
